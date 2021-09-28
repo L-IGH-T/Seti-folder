@@ -1,0 +1,27 @@
+{
+	"name": "vscode-theme-seti-folder",
+	"version": "0.1.1",
+	"displayName": "Seti folder",
+	"description": "Seti icons with folder for VS Code",
+	"publisher": "l-igh-t",
+	"license": "MIT",
+	"icon": "icons/setiWfolder.png",
+	"scripts": {
+		"update": "node ./build/update-icon-theme.js"
+	},
+	"categories": [
+		"Themes"
+	],
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "vs-seti-folder",
+				"label": "Seti folder",
+				"path": "./icons/vs-seti-icon-theme.json"
+			}
+		]
+	}
+}
