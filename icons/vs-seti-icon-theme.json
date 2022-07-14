@@ -25,6 +25,9 @@
 		"_folder_dark": {
 			"iconPath": "./folder_dark@2x.png"
 	  	},
+		"_folder_light": {
+		  "iconPath": "./folder_light@2x.png"
+		},
 	  	"_folder_open_dark": {
 			"iconPath": "./folder_opened_dark@2x.png"
 	  	},
@@ -1954,6 +1957,7 @@
 	},
 	"light": {
 		"file": "_default_light",
+		"folder": "_folder_light",
 		"fileExtensions": {
 			"bsl": "_bsl_light",
 			"mdo": "_mdo_light",
