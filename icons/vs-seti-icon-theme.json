@@ -1553,6 +1553,8 @@
 		}
 	},
 	"file": "_default",
+	"folder": "_folder_dark",
+	"folderExpanded": "_folder_open_dark",
 	"fileExtensions": {
 		"bsl": "_bsl",
 		"mdo": "_mdo",
