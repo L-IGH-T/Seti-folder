@@ -23,13 +23,13 @@
 	],
 	"iconDefinitions": {
 		"_folder_dark": {
-			"iconPath": "./folder_dark@2x.png"
+			"iconPath": "./folder_dark.svg"
 	  	},
 		"_folder_light": {
-		  "iconPath": "./folder_light@2x.png"
+		  "iconPath": "./folder_light.svg"
 		},
-	  	"_folder_open_dark": {
-			"iconPath": "./folder_opened_dark@2x.png"
+	  	"_folder_open": {
+			"iconPath": "./folder_opened.svg"
 	  	},
 		"_R_light": {
 			"fontCharacter": "\\E001",
@@ -1557,7 +1557,7 @@
 	},
 	"file": "_default",
 	"folder": "_folder_dark",
-	"folderExpanded": "_folder_open_dark",
+	"folderExpanded": "_folder_open",
 	"fileExtensions": {
 		"bsl": "_bsl",
 		"mdo": "_mdo",
