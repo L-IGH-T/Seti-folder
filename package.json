@@ -7,7 +7,8 @@
 	"license": "MIT",
 	"icon": "icons/setiWfolder.png",
 	"scripts": {
-		"update": "node ./build/update-icon-theme.js"
+		"update": "node ./build/update-icon-theme.js",
+		"view": "http-server --p 3000 --global /icons/preview.html"
 	},
 	"categories": [
 		"Themes"
@@ -27,5 +28,9 @@
 				"path": "./icons/vs-seti-icon-theme.json"
 			}
 		]
+	},
+	"devDependencies": {
+		"http-server": "^14.1.1",
+		"minimatch": "^9.0.1"
 	}
 }
