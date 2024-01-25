@@ -9,8 +9,8 @@ This is an icon theme with folder that uses the icons from [`seti-ui`](https://g
     3. Select `Seti folder`
 
 ## Preview
-![Screenshot](https://github.com/L-IGH-T/Seti-folder/main/preview/preview-dark.png)
-![Screenshot](https://github.com/L-IGH-T/Seti-folder/main/preview/preview-light.png)
+![Screenshot](https://github.com/L-IGH-T/Seti-folder/raw/main/preview/preview-dark.png)
+![Screenshot](https://github.com/L-IGH-T/Seti-folder/raw/main/preview/preview-light.png)
 
 
 ### Original Seti screenshot
